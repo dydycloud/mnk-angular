@@ -25,11 +25,12 @@
       <li><a href="http://karma-runner.github.io/0.12/index.html" target="_blank">Karma</a></li>
       <li><a href="http://jasmine.github.io/" target="_blank">Jasmine</a></li>
     </ul>
-
-    <h2>Install</h2>
-    <p class="well">
-      git clone https://github.com/dydycloud/mnk-angular.git
-    </p>
+    <div class="well">
+      <h2>Install</h2>
+      <p>
+        git clone https://github.com/dydycloud/mnk-angular.git
+      </p>
+    </div>
   </div>
 </body>
 </html>
