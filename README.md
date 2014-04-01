@@ -16,8 +16,8 @@
     </li>
     <li>
       <a href="http://angular-ui.github.io/bootstrap/" target="_blank">ui-bootsrap </a> directives sets</li>
-    <li><a href="http://docs.angularjs.org/api/ngRoute/service/$route">Routing</a></li>
-    <li><a href="http://karma-runner.github.io/0.12/index.html">Karma</a></li>
-    <li><a href="http://jasmine.github.io/">Jasmine</a></li>
+    <li><a href="http://docs.angularjs.org/api/ngRoute/service/$route" target="_blank">Routing</a></li>
+    <li><a href="http://karma-runner.github.io/0.12/index.html" target="_blank">Karma</a></li>
+    <li><a href="http://jasmine.github.io/" target="_blank">Jasmine</a></li>
   </ul>
 </div>
