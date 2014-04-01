@@ -27,8 +27,8 @@
     </ul>
     <div>
       <h2>Install & use</h2>
-      <p>
-        <ul class="well">
+      <p class="well">
+        <ul>
           <li>git clone https://github.com/dydycloud/mnk-angular.git</li>
           <li>cd mnk-angular.git</li>
           <li>npm install</li>
