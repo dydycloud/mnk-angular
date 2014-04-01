@@ -29,10 +29,11 @@
       <h2>Install</h2>
       <p>
         <ul>
-          <li>git clone https://github.com/dydycloud/mnk-angular.git</li>
-          <li>cd mnk-angular.git</li>
-          <li>npm install</li>
-          <li>bower install</li>
+          <li>
+            git clone https://github.com/dydycloud/mnk-angular.git 
+            && cd mnk-angular
+          </li>
+          <li>npm install && bower install</li>
         </ul>
       </p>
       <h2>Usage</h2>
