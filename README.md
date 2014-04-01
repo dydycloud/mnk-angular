@@ -1,12 +1,12 @@
 <div class="container">
   <h1>Mnk-Angular</h1>
-  <p>
+  <h4>
     Mnk-Angular is A Boilerplate App write in:
-  </p>
+  </h4>
   <ul>
     <li><a href="http://coffeescript.org/" target="_blank">CofffeScript</a></li>
   </ul>
-  <p>With:</p>
+  <h4>With:</h4>
   <ul>
     <li>
       <a href="http://getbootstrap.com/" target="_blank">Twitter Bootstrap</a> 
