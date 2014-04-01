@@ -6,7 +6,6 @@
       <link type="text/css" rel="stylesheet" href="public/css/built.css"/>
       <link type="text/css" rel="stylesheet" href="public/css/dark.min.css"/>
       <link type="text/css" rel="stylesheet" href="public/css/app.css"/>
-      <title>{{ title }}</title>
     </head>
     <body>
       <div class="container">
