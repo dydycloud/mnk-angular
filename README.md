@@ -26,14 +26,20 @@
       <li><a href="http://jasmine.github.io/" target="_blank">Jasmine</a></li>
     </ul>
     <div>
-      <h2>Install && Use</h2>
+      <h2>Install</h2>
       <p>
         <ul>
           <li>git clone https://github.com/dydycloud/mnk-angular.git</li>
           <li>cd mnk-angular.git</li>
           <li>npm install</li>
           <li>bower install</li>
-          <li>grunt</li>
+        </ul>
+      </p>
+      <h2>Usage</h2>
+      <p>
+        <ul>
+          <li>Grunt tasks: grunt</li>
+          <li>Tests: ./node_modules/karma/bin/karma start</li>
         </ul>
       </p>
     </div>
