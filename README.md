@@ -43,7 +43,7 @@
           <li>Tests: ./node_modules/karma/bin/karma start</li>
         </ul>
       </p>
-      <p> & copy;<a href="http://www.bemonkey.net">Be Monkey</a></p>
+      <p>&copy; <a href="http://www.bemonkey.net">Be Monkey</a></p>
     </div>
   </div>
 </body>
