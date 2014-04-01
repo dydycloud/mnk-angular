@@ -26,8 +26,8 @@
       <li><a href="http://jasmine.github.io/" target="_blank">Jasmine</a></li>
     </ul>
     <div>
-      <h2>Install & use</h2>
-      <p class="well">
+      <h2>Install && Use</h2>
+      <p>
         <ul>
           <li>git clone https://github.com/dydycloud/mnk-angular.git</li>
           <li>cd mnk-angular.git</li>
