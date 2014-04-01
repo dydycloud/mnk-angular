@@ -1,0 +1,20 @@
+.progress-bar.animate {
+   width: 100%;
+}
+pre {
+	display: block;
+	padding: 10px;
+	margin: 0 0 10.5px;
+	font-size: 16px;
+	line-height: 1.42857143;
+	word-break: break-all;
+	word-wrap: break-word;
+	color: #ffffff;
+	background-color: #00936e;
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+}
+input {
+	color: #000000;
+}
+

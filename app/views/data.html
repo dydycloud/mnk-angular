@@ -1,0 +1,13 @@
+<div ng-controller="DataCtrl">
+	<h1>{{ title }}</h1>
+	<p>{{ text }}</p>
+	<div class="rox" ng-hide="h">
+		<progressbar class="progress-striped active" value="min" type="success">
+			{{min}}%
+		</progressbar>
+		
+	</div>
+		<pre ng-show="h">
+			{{ data | json }}
+		</pre>
+</div>

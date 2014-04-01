@@ -1,0 +1,27 @@
+{
+  "name": "angCoffJasKar",
+  "version": "0.0.1",
+  "authors": [
+    "dydycloud <sandy.pierre97@gmail.com>"
+  ],
+  "description": "Base App angular coffee + test suite",
+  "main": "app/js/app.js",
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "angular": "~1.2.15",
+    "jasmine": "~2.0.0",
+    "angular-mocks": "~1.2.15",
+    "angular-route": "~1.2.15"
+  }
+}
