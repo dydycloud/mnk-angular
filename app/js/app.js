@@ -20,7 +20,7 @@
     return myData = {
       async: function() {
         var promise;
-        promise = $http.get('app/data/data.json').then(function(resp) {
+        promise = $http.get('https://mnk-plan.firebaseio.com/projects').then(function(resp) {
           console.log(resp);
           return resp.data;
         });
