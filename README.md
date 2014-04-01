@@ -6,10 +6,16 @@
   <ul>
     <li>CofffeScript</li>
   </ul>
-  <p>Wiht:</p>
+  <p>Whit:</p>
   <ul>
-    <li>Twitter Bootstrap dark, light and default theme</li>
-    <li>ui-bootsrap directives sets</li>
+    <li>
+      <a href="http://getbootstrap.com/">Twitter Bootstrap</a> 
+      <a href="http://bootswatch.com/darkly/">dark</a>, 
+      <a href="http://bootswatch.com/yeti/">light </a> 
+      and default theme
+    </li>
+    <li>
+      <a href="http://angular-ui.github.io/bootstrap/">ui-bootsrap </a> directives sets</li>
     <li>Built in Routing</li>
   </ul>
 </div>
