@@ -25,10 +25,16 @@
       <li><a href="http://karma-runner.github.io/0.12/index.html" target="_blank">Karma</a></li>
       <li><a href="http://jasmine.github.io/" target="_blank">Jasmine</a></li>
     </ul>
-    <div class="well">
-      <h2>Install</h2>
+    <div>
+      <h2>Install & use</h2>
       <p>
-        git clone https://github.com/dydycloud/mnk-angular.git
+        <ul class="well">
+          <li>git clone https://github.com/dydycloud/mnk-angular.git</li>
+          <li>cd mnk-angular.git</li>
+          <li>npm install</li>
+          <li>bower install</li>
+          <li>grunt</li>
+        </ul>
       </p>
     </div>
   </div>
