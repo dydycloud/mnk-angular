@@ -4,18 +4,20 @@
     Mnk-Angular is A Boilerplate App write in:
   </p>
   <ul>
-    <li>CofffeScript</li>
+    <li><a href="http://coffeescript.org/" target="_blank">CofffeScript</a></li>
   </ul>
-  <p>Whit:</p>
+  <p>With:</p>
   <ul>
     <li>
-      <a href="http://getbootstrap.com/">Twitter Bootstrap</a> 
-      <a href="http://bootswatch.com/darkly/">dark</a>, 
-      <a href="http://bootswatch.com/yeti/">light </a> 
+      <a href="http://getbootstrap.com/" target="_blank">Twitter Bootstrap</a> 
+      <a href="http://bootswatch.com/darkly/" target="_blank">dark</a>, 
+      <a href="http://bootswatch.com/yeti/" target="_blank">light </a> 
       and default theme
     </li>
     <li>
-      <a href="http://angular-ui.github.io/bootstrap/">ui-bootsrap </a> directives sets</li>
-    <li>Built in Routing</li>
+      <a href="http://angular-ui.github.io/bootstrap/" target="_blank">ui-bootsrap </a> directives sets</li>
+    <li><a href="http://docs.angularjs.org/api/ngRoute/service/$route">Routing</a></li>
+    <li><a href="http://karma-runner.github.io/0.12/index.html">Karma</a></li>
+    <li><a href="http://jasmine.github.io/">Jasmine</a></li>
   </ul>
 </div>
